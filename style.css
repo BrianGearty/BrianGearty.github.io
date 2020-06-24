@@ -1,0 +1,66 @@
+
+    html{
+        background-image: radial-gradient(circle, indianred, slateblue  );
+        
+    }
+    h1 {
+        text-align: center;
+        font-family: cursive;
+        font-size: 50px;
+        color: rgb(54, 18, 88);
+    }
+    nav {
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: large;
+        padding-bottom: 15px;
+        
+    }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-color:rgb(175, 18, 141);
+        border-style: outset;
+        border-radius: 55px;
+        border-width: medium;
+    }
+
+    p {
+        margin-right: 125px;
+        margin-left: 125px;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:rgb(19, 6, 31) ;
+        font-size: large;
+        line-height: 25px;
+    }
+
+    h2 {
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(19, 6, 31);
+        font-size: larger;
+    }
+
+    li {
+        text-align: center;
+        list-style-position: inside;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(19, 6, 31);
+        font-size: medium; 
+        line-height: 25px;
+        padding-bottom: 10px;
+    }
+
+    /* For Photos Page */
+
+    div {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        align-content: center;
+
+
+    }
+
+    
